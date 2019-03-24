@@ -1,1 +1,2 @@
-# rnn-test
+# RNN
+RNN for sentiment analysis
